@@ -2,12 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+- title: THIS PAGE IS UNDER DEVELOPMENT
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Cybersecurity professional @hiof
+      - title: "Open source enthusiast, <a href='https://archlinux.org'>I use Arch, btw..</a>"
+      - title: Part-time master student @ntnu
 
   - title: all posts
     post_list:
