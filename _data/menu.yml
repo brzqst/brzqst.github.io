@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-- title: THIS PAGE IS UNDER DEVELOPMENT
+  - title: THIS PAGE IS UNDER DEVELOPMENT
   - title: info
     entries:
       - title: Cybersecurity professional @hiof
